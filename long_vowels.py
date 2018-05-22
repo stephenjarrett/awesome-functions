@@ -16,4 +16,4 @@ def long_vowels():
     print()
     return
 
-    # this is shit
+    # this is awesome
